@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Gitwisp
-
+![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)]({https://www.linkedin.com/in/roman-popov-51a87114a/})
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 - 👀 I’m interested in ...
