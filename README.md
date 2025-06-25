@@ -2,7 +2,7 @@
   Hi there 👋 I'm Roman 💻👨‍💻⌨️
 </h1>
 <p align='center'>
-Junior QA Engineer self-taught
+QA Engineer
 </p>
 
   <p align='center'>
