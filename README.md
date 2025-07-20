@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Roman 💻👨‍💻⌨️
+  Hi there 👋 💻👨‍💻⌨️
 </h1>
 <p align='center'>
 Python developer / QA Engineer
