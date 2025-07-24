@@ -6,12 +6,6 @@ Python developer / QA Engineer
 </p>
 
   <p align='center'>
-  
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:Pozitif555@mail.ru'>PozitiF555@mail.ru</a>
-</p>
-
 
 
 <!---
